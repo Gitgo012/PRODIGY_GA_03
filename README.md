@@ -74,5 +74,28 @@ The app will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 - [Cornell Movie Dialogs Corpus (Kaggle)](https://www.kaggle.com/datasets/Cornell-University/movie-dialog-corpus)
 - [markovify](https://github.com/jsvine/markovify)
+- Followed this amazing tutorial on Markovify and tweaked it a little for using my custom dataset (https://towardsdatascience.com/text-generation-with-markov-chains-an-introduction-to-using-markovify-742e6680dc33/)
+- For understanding the math behind Markov chains used this resource from Brilliant (https://brilliant.org/wiki/markov-chains/)
+---
+
+## Output
+---
+
+#### Mobile view
+---
+
+<p align="center">
+  <img src="images/Image%202%20task%203.jpg" height="250px"/>
+</p>
 
 ---
+
+#### PC view
+---
+
+<p align="center">
+  <img src="images/Image%201%20task%203.png" height="250px"/>
+</p>
+
+
+

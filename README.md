@@ -1,4 +1,4 @@
-# Movie Line Machine
+# Movie Line Generator through Markov chains
 
 A fun web application that generates random movie-style lines using a Markov chain model trained on the Cornell Movie Dialogs Corpus. It was done as part of my internship at Prodigy Infotech
 
